@@ -1,3 +1,5 @@
+Criteria for Evaluating Participant Perfomance.
+
 This training includes various evaluations to assess participants' knowledge and skills. These evaluations happen throughout the training program, and they include interim assessments, Capstone projects, weekly quizzes, multiple-choice question (MCQ) assessments, oral presentations (Viva)
 
 1. Interim assessments: These are evaluations conducted at regular intervals throughout the training program to measure a participant's understanding of the material covered so far. They can be in various formats, such as short quizzes or assignments.
@@ -11,3 +13,20 @@ This training includes various evaluations to assess participants' knowledge and
 5. Viva (oral presentation): This evaluation involves participants giving a presentation on a specific topic related to the training program. It allows assessors to evaluate a participant's communication skills, knowledge depth, and ability to answer questions.
 
 6. External certification: This evaluation involves participants taking an exam offered by an external organization to obtain a recognized credential in a particular skill or domain.
+
+
+
+
+The prerequisites for MuleSoft certifications vary depending on the specific certification you are interested in pursuing. However, there are some general recommendations that apply to most MuleSoft certifications:
+
+Basic understanding of IT concepts: This includes familiarity with key IT concepts such as networking, APIs, and data integration.
+Experience with programming languages: While not all MuleSoft certifications require programming experience, it is helpful to have a basic understanding of at least one programming language, such as Java or Python.
+Familiarity with cloud platforms: Many MuleSoft applications are deployed on cloud platforms such as Salesforce and AWS. Therefore, having a basic understanding of these platforms can be beneficial.
+Here's a table summarizing the prerequisites for some of the most popular MuleSoft certifications:
+
+Certification	Prerequisites
+MuleSoft Certified Integration Associate (MCIA)	None
+MuleSoft Certified Developer - Level 1 (Mule 4)	Completion of the Anypoint Platform Development: Fundamentals course
+MuleSoft Certified Developer - Level 2 (Mule 4)	MuleSoft Certified Developer - Level 1
+MuleSoft Certified Integration Architect - Level 1	2-3 years of experience in integration architecture
+In addition to the general recommendations above, it is always best to check the specific requirements for the certification you are interested in on the MuleSoft website. You can find more information about MuleSoft certifications here: [invalid URL removed].

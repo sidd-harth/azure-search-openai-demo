@@ -3,7 +3,7 @@ import { Example } from "./Example";
 import styles from "./Example.module.css";
 
 const DEFAULT_EXAMPLES: string[] = [
-    "What topics are covered in MuleSoft training?",
+    "What topics are covered in MuleSoft Level 1 training?",
     "What criteria will be used to evaluate participant performance?",
     "What do I need to know before taking the external certification?"
 ];
