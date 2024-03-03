@@ -1,0 +1,18 @@
+{
+  "doc": "Sample payload used in Session 1",
+  "payload": {
+    "userId": "user123",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "preferences": {
+      "language": "en",
+      "newsletter": true
+    }
+  }
+}

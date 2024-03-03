@@ -1,0 +1,59 @@
+{
+  "doc": "Sample payload used in Session 2",
+  "payload": {
+    "orderId": "ORD-12345",
+    "customer": {
+      "customerId": "CUST-98765",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      }
+    },
+    "items": [
+      {
+        "itemId": "PROD-XYZ",
+        "name": "T-Shirt",
+        "price": 20.00,
+        "quantity": 2,
+        "options": {
+          "color": "red",
+          "size": "medium"
+        }
+      },
+      {
+        "itemId": "PROD-ABC",
+        "name": "Mug",
+        "price": 10.00,
+        "quantity": 1,
+        "options": null
+      }
+    ],
+    "shipping": {
+      "method": "standard",
+      "cost": 5.00,
+      "address": {
+        "isSameAsCustomer": true
+      }
+    },
+    "payment": {
+      "type": "credit card",
+      "cardNumber": "****-****-****-1234",
+      "expirationDate": "2025-12-31",
+      "billingAddress": {
+        "street": "456 Elm St",
+        "city": "Anytown",
+        "state": "NY",
+        "zip": "54321"
+      }
+    },
+    "metadata": {
+      "source": "website",
+      "campaign": "holiday-sale"
+    }
+  }  
+}
